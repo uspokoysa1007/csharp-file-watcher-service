@@ -1,0 +1,10 @@
+bin/
+obj/
+releases/*.exe
+releases/*.dll
+releases/*.json
+releases/*.pdb
+!releases/
+!releases/source_code.zip
+watched/
+logs/
